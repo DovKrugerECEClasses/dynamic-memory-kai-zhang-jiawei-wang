@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Bitmap"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bitmap">
+				<Option output="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Bitmap.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/."/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bitmap"/>
+					<CompileFile command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bitmap/fast">
+				<Option output="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Bitmap.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/."/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="k:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bitmap/fast"/>
+					<CompileFile command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="K:/MinGW/bin/mingw32-make.exe -f &quot;E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/Color.hh">
+			<Option target="Bitmap"/>
+		</Unit>
+		<Unit filename="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/bitmap.cpp">
+			<Option target="Bitmap"/>
+		</Unit>
+		<Unit filename="E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

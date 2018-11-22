@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/Color.hh
+cstdint
+-
+
+E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/bitmap.cpp
+iostream
+-
+Color.hh
+E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/Submission/Bitmap/Color.hh
+cmath
+-
+string
+-
+
