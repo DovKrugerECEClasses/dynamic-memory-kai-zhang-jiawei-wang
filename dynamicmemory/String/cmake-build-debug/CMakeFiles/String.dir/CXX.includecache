@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/String/String.hh
+cstdint
+-
+iostream
+-
+
+E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/String/main.cc
+String.hh
+E:/553/dynamic-memory-kai-zhang-jiawei-wang/dynamicmemory/String/String.hh
+
